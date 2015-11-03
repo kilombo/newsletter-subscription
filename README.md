@@ -58,6 +58,11 @@ Or [download as ZIP](https://github.com/kilombo/newsletter-subscription/archive/
         }
     </script>
     ```
+4. You can hide the buttons
+    ```html
+    <newsletter-subscription id="newsletter-subscription" hide-buttons></newsletter-subscription>
+    ```
+
 
 ## Development
 
